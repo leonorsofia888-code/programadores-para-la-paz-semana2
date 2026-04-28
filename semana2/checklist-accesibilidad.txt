@@ -1,35 +1,35 @@
 Checklist de accesibilidad – Formulario Participa
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Sofia Vergara
+Fecha: 27/04/2026
+Nombre de la rama: sofia_vergara
 
 1. ¿El formulario tiene un título claro?
-Respuesta:
+Respuesta: Sí, porque el título “Queremos escucharte” es fácil de entender y deja claro que el formulario es para compartir opiniones.
 
 2. ¿El formulario explica para qué se usará la información?
-Respuesta:
+Respuesta: Sí, se menciona que la información es para mejorar la comunidad, lo cual ayuda a que las personas sepan para qué están participando.
 
 3. ¿Cada campo tiene un label o etiqueta visible?
-Respuesta:
+Respuesta: Sí, cada campo tiene una pregunta clara como “¿Cómo te llamas?” o “¿Qué te gustaría proponer?”, lo que facilita entender qué escribir.
 
 4. ¿El lenguaje usado es sencillo y comprensible?
-Respuesta:
+Respuesta: Sí, se usan palabras simples y cercanas, como si se estuviera hablando con alguien directamente, lo que hace el formulario más fácil de usar.
 
 5. ¿El formulario evita pedir datos innecesarios?
-Respuesta:
+Respuesta: Sí, solo se pide lo básico y el contacto es opcional, lo cual respeta la privacidad de las personas.
 
 6. ¿El campo principal permite escribir una propuesta o mensaje de forma clara?
-Respuesta:
+Respuesta: Sí, el campo de propuesta es amplio y tiene una indicación clara para que la persona escriba su idea sin confusión.
 
 7. ¿El formulario incluye una casilla o mensaje de consentimiento?
-Respuesta:
+Respuesta: Sí, incluye una casilla donde la persona acepta el uso de su información, lo cual es importante para la confianza.
 
 8. ¿El botón de envío tiene un texto claro?
-Respuesta:
+Respuesta: Sí, el botón dice “Enviar”, que es corto y fácil de entender para cualquier persona.
 
 9. ¿La página se puede leer con facilidad?
-Respuesta:
+Respuesta: Sí, el contenido está bien organizado y el texto es claro, lo que permite leer sin dificultad.
 
 10. ¿Qué mejorarías del formulario para que más personas puedan usarlo?
-Respuesta:
+Respuesta: Mejoraría el formulario permitiendo guardar la información antes de enviarla, ya que si una persona se equivoca o se le cierra la página, perdería todo lo que escribió. También sería útil que el formulario indique cuánto tiempo toma completarlo, para que las personas sepan a qué se comprometen antes de empezar.
