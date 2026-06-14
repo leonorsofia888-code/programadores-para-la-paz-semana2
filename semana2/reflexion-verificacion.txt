@@ -1,8 +1,14 @@
 Reflexión de verificación responsable
 
+<<<<<<< HEAD
 Nombre del estudiante:
 Fecha:
 Nombre de la rama:
+=======
+Nombre del estudiante: Sofia Vergara
+Fecha: 27/04/2026
+Nombre de la rama: sofia_vergara
+>>>>>>> 26b173a69adf01f94b4ed4c4f1b964f6befdae8a
 
 Escribe una reflexión de 8 a 10 líneas respondiendo las siguientes preguntas:
 
@@ -11,4 +17,22 @@ Escribe una reflexión de 8 a 10 líneas respondiendo las siguientes preguntas:
 3. ¿Por qué la accesibilidad también es una forma de inclusión digital?
 4. ¿Qué relación tiene el formulario “Participa” con la participación ciudadana?
 
+<<<<<<< HEAD
 Respuesta:
+=======
+Respuesta: No se debe compartir cualquier información sin verificar porque puede generar confusión o afectar a otras personas.
+
+Verificar la información ayuda a que lo que se comparte sea confiable y útil para la comunidad.
+
+Esto también protege a las personas, ya que evita la difusión de información falsa o engañosa.
+
+La accesibilidad es importante porque permite que todas las personas puedan entender y usar la información.
+
+De esta manera, se promueve una verdadera inclusión digital.
+
+El formulario “Participa” permite que las personas expresen sus ideas y necesidades.
+
+Esto ayuda a mejorar la comunidad y tomar mejores decisiones.
+
+Además, al ser claro y sencillo, facilita que más personas puedan participar.
+>>>>>>> 26b173a69adf01f94b4ed4c4f1b964f6befdae8a
