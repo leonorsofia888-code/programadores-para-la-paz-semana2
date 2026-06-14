@@ -5,7 +5,7 @@ app.use(express.json());
 
 let reportes = [];
 
-// GET - consultar reportes
+// GET - ver reportes
 app.get('/reportes', (req, res) => {
   res.json(reportes);
 });
@@ -28,5 +28,5 @@ app.post('/reportes', (req, res) => {
 
 // iniciar servidor
 app.listen(3000, () => {
-  console.log('Servidor ejecutándose en puerto 3000');
+  console.log("Servidor ejecutándose en puerto 3000");
 });
