@@ -1,0 +1,5 @@
+El comando uname -a muestra información sobre el sistema operativo, como el kernel, la versión y la arquitectura.
+
+El comando whoami muestra el nombre del usuario que está utilizando la sesión actual.
+
+Esta información es útil para administrar un servidor porque permite identificar el sistema y el usuario con el que se están realizando las tareas.
