@@ -1,0 +1,7 @@
+Cuando se realiza una petición GET a /reportes, el servidor devuelve todos los reportes almacenados en memoria.
+
+Al inicio el arreglo está vacío, por lo que devuelve un array vacío [].
+
+Después de enviar un reporte con POST, el sistema guarda el objeto en el array reportes.
+
+Cuando se vuelve a consultar GET /reportes, ahora aparece una lista con los reportes registrados, incluyendo id, tipo y descripción.
