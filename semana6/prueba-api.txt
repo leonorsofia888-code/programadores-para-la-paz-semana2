@@ -1,0 +1,9 @@
+Al enviar una petición POST a la ruta /registro con un JSON que contiene un nombre y un mensaje, el servidor responde devolviendo esos mismos datos junto con el estado "Datos recibidos".
+
+Ejemplo de respuesta:
+
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
