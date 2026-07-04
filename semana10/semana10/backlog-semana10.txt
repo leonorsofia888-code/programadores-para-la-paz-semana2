@@ -1,0 +1,11 @@
+Backlog priorizado
+
+1. Como ciudadano quiero registrar una incidencia para dejar evidencia del caso.
+
+2. Como coordinador quiero recibir una notificación en Telegram cuando se registre un nuevo reporte para darle seguimiento oportunamente.
+
+3. Como miembro del equipo quiero consultar los reportes registrados para hacer seguimiento a cada caso.
+
+4. Como administrador quiero actualizar el estado de los reportes para mantener informada a la comunidad.
+
+5. Como ciudadano quiero consultar el estado de mi reporte para conocer su avance.
