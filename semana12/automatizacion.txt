@@ -1,0 +1,12 @@
+Evento: Registro de una nueva causa en la plataforma.
+
+Automatización: n8n envía un mensaje automático por Telegram indicando que se creó una nueva petición.
+
+Mensaje: "Se ha registrado una nueva causa en la plataforma Petición en 3 Clics."
+
+Información que no debe enviarse:
+- Números de identificación.
+- Teléfonos.
+- Direcciones.
+- Comentarios sensibles.
+- Datos personales de los usuarios.
